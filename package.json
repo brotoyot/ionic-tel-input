@@ -15,7 +15,7 @@
   },
   "_spec": "ionic-tel-input@1.1.0",
   "bugs": {
-    "url": "git+https://github.com/MohamedMardona/ionic-tel-input.git"
+    "url": "git+https://github.com/brotoyot/ionic-tel-input"
   },
   "dependencies": {
     "intel-tel-input-rtl": "^1.0.0",
@@ -37,7 +37,7 @@
     "typescript": "~2.7.2",
     "zone.js": "^0.8.26"
   },
-  "homepage": "https://github.com/MohamedMardona/ionic-tel-input.git#readme",
+  "homepage": "https://github.com/brotoyot/ionic-tel-input#readme",
   "license": "MIT",
   "main": "ionic-tel-input.js",
   "name": "ionic-tel-input-rtl",
@@ -46,7 +46,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MohamedMardona/ionic-tel-input.git"
+    "url": "git+https://github.com/brotoyot/ionic-tel-input.git"
   },
   "scripts": {
     "build": "ngc -p ./tsconfig-ngc.json",
@@ -54,6 +54,6 @@
     "watch": "tsc -p src -w"
   },
   "typings": "./ionic-tel-input.d.ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Ibrahim mhairy"
 }
