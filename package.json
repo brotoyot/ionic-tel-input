@@ -54,6 +54,6 @@
     "watch": "tsc -p src -w"
   },
   "typings": "./ionic-tel-input.d.ts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Ibrahim mhairy"
 }
