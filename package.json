@@ -20,7 +20,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "intl-tel-input-mobile": "1.0.6",
+    "intel-tel-input-rtl": "^1.0.0",
     "jquery": "^3.1.1"
   },
   "deprecated": false,

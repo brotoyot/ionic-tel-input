@@ -1,4 +1,5 @@
 
+# added rtl support
 
 # ionic wrapper for intl-tel-input-mobile
 
