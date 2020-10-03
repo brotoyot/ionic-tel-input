@@ -1,7 +1,7 @@
 import { Directive, ElementRef, EventEmitter, HostListener, Input, Output } from '@angular/core';
 import * as $ from 'jquery';
-import 'intl-tel-input-mobile';
-import 'intl-tel-input-mobile/build/js/utils';
+import 'intl-tel-input-rtl';
+import 'intl-tel-input-rtl/build/js/utils';
 var IonicTelInput = /** @class */ (function () {
     function IonicTelInput(el) {
         this.el = el;
